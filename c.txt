@@ -1,1 +1,2 @@
 This is c.txt from dev branch
+I will edit this file due to Task#1.9
